@@ -1,7 +1,6 @@
 "# PracticeProjectBDDCucumber" 
-"# PracticeProjectBDDCucumber" 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Features
+"Features" 
+
 -*Maven* Project with all dependencies
 -Implemented *TestNG runner* to run the framework
 -*Single responsibility principle* to distribute the implementation into multiple step definitions
